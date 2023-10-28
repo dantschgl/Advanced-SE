@@ -1,0 +1,119 @@
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.exe
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.deps.json
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.runtimeconfig.json
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.AssemblyReference.cache
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.Form1.resources
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.GenerateResource.cache
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfoInputs.cache
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfo.cs
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.CoreCompileInputs.cache
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\refint\PIC16F8x_Simulator.dll
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.genruntimeconfig.cache
+A:\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\ref\PIC16F8x_Simulator.dll
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.exe
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.deps.json
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.runtimeconfig.json
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.Form1.resources
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.GenerateResource.cache
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfoInputs.cache
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\refint\PIC16F8x_Simulator.dll
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.genruntimeconfig.cache
+C:\Users\danie\Source\Repos\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\ref\PIC16F8x_Simulator.dll
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.exe
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.deps.json
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.Form1.resources
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\refint\PIC16F8x_Simulator.dll
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\ref\PIC16F8x_Simulator.dll
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.exe
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.deps.json
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.runtimeconfig.json
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.Form1.resources
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\refint\PIC16F8x_Simulator.dll
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Dokumente\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\ref\PIC16F8x_Simulator.dll
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.exe
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.deps.json
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.runtimeconfig.json
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.Form1.resources
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfo.cs
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\refint\PIC16F8x_Simulator.dll
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.genruntimeconfig.cache
+C:\Users\user\OneDrive - bwedu\Desktop BWedu\DHBW\Semester 4\Rechnerarchitekturen & systemnahe Programmierung\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\ref\PIC16F8x_Simulator.dll
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.Form1.resources
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\refint\PIC16F8x_Simulator.dll
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.exe
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.deps.json
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\ref\PIC16F8x_Simulator.dll
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.exe
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.deps.json
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\bin\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.Form1.resources
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.dll
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\refint\PIC16F8x_Simulator.dll
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.pdb
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\PIC16F8x_Simulator.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Simulatorisierung\PIC16F8x_Simulator\obj\Debug\net6.0-windows\ref\PIC16F8x_Simulator.dll

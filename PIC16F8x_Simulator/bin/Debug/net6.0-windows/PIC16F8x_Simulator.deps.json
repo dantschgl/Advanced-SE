@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PIC16F8x_Simulator/1.0.0": {
+        "runtime": {
+          "PIC16F8x_Simulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PIC16F8x_Simulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
