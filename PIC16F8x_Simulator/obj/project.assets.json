@@ -8,25 +8,20 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dak20\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Dokumente\\GitHub\\Simulatorisierung\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj",
       "projectName": "PIC16F8x_Simulator",
-      "projectPath": "A:\\Dokumente\\GitHub\\Simulatorisierung\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj",
-      "packagesPath": "C:\\Users\\dak20\\.nuget\\packages\\",
-      "outputPath": "A:\\Dokumente\\GitHub\\Simulatorisierung\\PIC16F8x_Simulator\\obj\\",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dak20\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows"
