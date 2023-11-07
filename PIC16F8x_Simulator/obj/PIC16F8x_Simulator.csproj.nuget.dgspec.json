@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj": {}
+    "C:\\Users\\danie\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj": {
+    "C:\\Users\\danie\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj",
         "projectName": "PIC16F8x_Simulator",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\obj\\",
+        "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\PIC16F8x_Simulator.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danie\\Documents\\GitHub\\Advanced-SE\\PIC16F8x_Simulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
